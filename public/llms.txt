@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+אתר חיים דיגיטלי ייחודי המוקדש להרב רפאל מנת לרגל יובל שנותיו. טקסט, וידאו וראיונות דוקומנטריים שמספרים את מסע חייו המרתק. היכנס וגלה.
+
+### פרקים
+https://example.com/chapters
+כל פרק הוא עולם שלם: טקסט עמוק וסרטון דוקומנטרי שמחיים את תחנות חייו של הרב רפאל מנת. צלול לתוך מסע רוחני ואישי שלא תשכח. קרא עכשיו.
+
+### גישה דוקומנטרית
+https://example.com/documentary-approach
+הגישה הדוקומנטרית שמאחורי האתר משלבת ראיונות אותנטיים, עדויות ועריכה קולנועית ליצירת דיוקן חי של רב יהודי. גלה כיצד בנינו חוויה שתזכר לעד.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה על הפרויקט של הרב רפאל מנת או רעיון לסיפור חיים דיגיטלי משלך? אנחנו כאן. צור קשר עכשיו ונהפוך את החזון שלך למציאות דוקומנטרית.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
